@@ -8,28 +8,28 @@ I tested the app with lists of different varieties, including normal, already so
 
 ### Normal unsorted list
 Input: 5, 1, 4, 7, 2
-Output: Sorted list: [1, 2, 4, 5, 7]
+Output: Sorted list: [1, 2, 4, 5, 7] 
 <img width="363" height="730" alt="image" src="https://github.com/user-attachments/assets/4e0e2ab2-2cf4-4f19-ac24-e4c9b57919c2" />
 
 ### Already sorted list
 Input: 1, 2, 3, 4
 Output: Sorted list: [1, 2, 3, 4]
-Showcasing that algorithm stops early after a pass with no swaps.
+Showcasing that algorithm stops early after a pass with no swaps. 
 <img width="347" height="634" alt="image" src="https://github.com/user-attachments/assets/d8716257-3215-4055-9e04-31270eb95793" />
 
 ### Reverse sorted list
 Input: 9, 7, 6, 2, 1
-Output: Sorted list: [1, 2, 6, 7, 9]
+Output: Sorted list: [1, 2, 6, 7, 9] 
 <img width="311" height="727" alt="image" src="https://github.com/user-attachments/assets/ce43d662-df6d-4800-b03f-9cd4da3fa28e" />
 
 ### List with duplicates
 Input: 9, 9, 4, 1
-Output: Sorted list: [1, 4, 9, 9]
+Output: Sorted list: [1, 4, 9, 9] 
 <img width="263" height="653" alt="image" src="https://github.com/user-attachments/assets/8c41f938-40af-42ea-9db0-b3fb3d390829" />
 
 Negative and positive numbers
 Input: 0, -2, 8, -1
-Output: Sorted list: [-2, -1, 0, 5]
+Output: Sorted list: [-2, -1, 0, 5] 
 <img width="315" height="686" alt="image" src="https://github.com/user-attachments/assets/05878339-0fc4-4cae-9c75-2aa8ec37e4cd" />
 
 
