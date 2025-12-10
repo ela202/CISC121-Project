@@ -35,7 +35,7 @@ def bubble_sort(arr):
 def run_bubble_sort(user_input):
     # Checks for empty input
     if user_input.strip() == "":
-        return "Please enter numbers separated by commas.", ""
+        return "Please enter numbers separated by commas!", ""
 
     # Converts input into a list of integers
     try:
@@ -58,12 +58,12 @@ def run_bubble_sort(user_input):
 
 
 # Gradio Interface
-with gr.Blocks(title="Bubble Sort Visual Helper 🫧") as demo:
+with gr.Blocks(title="🫧 Bubble Sort Visual Helper 🫧") as demo:
 
     gr.Markdown("# 🫧 Bubble Sort Visual Helper 🫧")
     gr.Markdown(
-        "Enter numbers separated by commas (e.g., `5, 1, 4, 2`). "
-        "This app will show Bubble Sort step by step."
+        "Please enter numbers separated by commas! (e.g., `5, 1, 4, 2`). "
+        "This app will show Bubble Sort step by step for learning :)"
     )
 
     input_box = gr.Textbox(
@@ -71,7 +71,7 @@ with gr.Blocks(title="Bubble Sort Visual Helper 🫧") as demo:
         placeholder="Example: 5, 1, 4, 2, 8"
     )
 
-    sort_button = gr.Button("Run Bubble Sort")
+    sort_button = gr.Button("Run Bubble Sort!")
 
     steps_output = gr.Textbox(
         label="Step-by-Step Explanation",
