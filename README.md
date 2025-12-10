@@ -7,6 +7,15 @@ I tested the app with lists of different varieties, including normal, already so
 
 <img width="1906" height="764" alt="image" src="https://github.com/user-attachments/assets/95e490de-a0e6-47f0-a73c-67e8a9589779" />
 
+### Empty Input + Invalid Input
+Input: ""
+
+<img width="352" height="241" alt="image" src="https://github.com/user-attachments/assets/b4735899-9783-4e2d-945e-d51b51130388" />
+
+Input: a, 2, 3
+
+<img width="367" height="250" alt="image" src="https://github.com/user-attachments/assets/9ad78f3c-001b-4841-ae0b-9ee67600ef2a" />
+
 ### Normal unsorted list
 Input: 5, 1, 4, 7, 2
 Output: Sorted list: [1, 2, 4, 5, 7]
@@ -23,6 +32,7 @@ Showcasing that algorithm stops early after a pass with no swaps.
 ### Reverse sorted list
 Input: 9, 7, 6, 2, 1
 Output: Sorted list: [1, 2, 6, 7, 9] 
+
 <img width="311" height="727" alt="image" src="https://github.com/user-attachments/assets/ce43d662-df6d-4800-b03f-9cd4da3fa28e" />
 
 ### List with duplicates
@@ -31,7 +41,7 @@ Output: Sorted list: [1, 4, 9, 9]
 
 <img width="263" height="653" alt="image" src="https://github.com/user-attachments/assets/8c41f938-40af-42ea-9db0-b3fb3d390829" />
 
-Negative and positive numbers
+### Negative and positive numbers
 Input: 0, -2, 8, -1
 Output: Sorted list: [-2, -1, 0, 5]
 
