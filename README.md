@@ -48,4 +48,5 @@ https://huggingface.co/spaces/ela-art/CISC-Project
 
 ## Author & Acknowledgment
 Author: Ela Aydiner
+
 Acknowledgements: CISC-121 course content, Gradio documentation, Hugging Face
