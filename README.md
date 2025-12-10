@@ -86,11 +86,12 @@ Input --> Check --> Convert to list --> Bubble Sort --> Output: Display steps + 
 ## Steps to Run
 1. Clone this GitHub repository
 2. Install dependencies (bash): pip install -r requirements.txt
-3. Run the app: python app.py
+3. Run the app: python app.py 
 
 ## Hugging Face Link
 https://huggingface.co/spaces/ela-art/CISC-Project 
 
 ## Author & Acknowledgment
 Author: Ela Aydiner
+
 Acknowledgements: CISC-121 course content, Gradio documentation, Hugging Face
