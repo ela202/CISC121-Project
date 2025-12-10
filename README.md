@@ -16,6 +16,10 @@ Input: a, 2, 3
 
 <img width="367" height="250" alt="image" src="https://github.com/user-attachments/assets/9ad78f3c-001b-4841-ae0b-9ee67600ef2a" />
 
+Input: 2,,, 9,, 0
+
+<img width="296" height="629" alt="image" src="https://github.com/user-attachments/assets/c8993d0a-f6d6-4d19-a463-755a4ff9f669" />
+
 ### Normal unsorted list
 Input: 5, 1, 4, 7, 2
 Output: Sorted list: [1, 2, 4, 5, 7]
